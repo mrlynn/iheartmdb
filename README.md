@@ -1,4 +1,4 @@
-# AtlasEventIceBreaker
+# Atlas Event Ice Breaker - A Poll Example w/ Charts
 
 This is a simple MongoDB Atlas Stitch App using Query Anywhere and MongoDB Charts to ask an ice breaker question to a classroom then plot the results.
 
