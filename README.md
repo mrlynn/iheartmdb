@@ -2,8 +2,6 @@
 
 This is a simple MongoDB Atlas Stitch App using Query Anywhere and MongoDB Charts to ask an ice breaker question to a classroom then plot the results.
 
-It was last used at an Atlas Brewery event, hence the beer question.
-
 To use this for your own event, or for research:
 
 1. Deploy a [MongoDB Atlas cluster](https://cloud.mongodb.com)
